@@ -11,6 +11,37 @@
 		8B70E15325BDAF080014EEA7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B70E15225BDAF080014EEA7 /* ContentView.swift */; };
 		8B70E15525BDAF0A0014EEA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B70E15425BDAF0A0014EEA7 /* Assets.xcassets */; };
 		8B70E15825BDAF0A0014EEA7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B70E15725BDAF0A0014EEA7 /* Preview Assets.xcassets */; };
+		8B70E16225BDAF690014EEA7 /* Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B70E16125BDAF690014EEA7 /* Challenge1.swift */; };
+		8B70E16B25BDD6980014EEA7 /* Challenge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B70E16A25BDD6980014EEA7 /* Challenge2.swift */; };
+		8B70E16E25BE01050014EEA7 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B70E16D25BE01050014EEA7 /* SecondView.swift */; };
+		8B70E17125BE08920014EEA7 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B70E17025BE08920014EEA7 /* ThirdView.swift */; };
+		8B70E17425BE112D0014EEA7 /* MenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B70E17325BE112D0014EEA7 /* MenuButton.swift */; };
+		8B713BAF25CC65E50055E640 /* PlantsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BAE25CC65E50055E640 /* PlantsModel.swift */; };
+		8B713BB325CC6B2D0055E640 /* TopPlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BB225CC6B2D0055E640 /* TopPlantView.swift */; };
+		8B713BB625CC738F0055E640 /* TopTitlePlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BB525CC738E0055E640 /* TopTitlePlantView.swift */; };
+		8B713BB925CC79BC0055E640 /* FrontPlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BB825CC79BC0055E640 /* FrontPlantView.swift */; };
+		8B713BBC25CC7C550055E640 /* SectionPlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BBB25CC7C550055E640 /* SectionPlantView.swift */; };
+		8B713BBF25CC835E0055E640 /* CardFrontPlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BBE25CC835E0055E640 /* CardFrontPlantView.swift */; };
+		8B713BCA25CC99330055E640 /* DetailPlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BC925CC99330055E640 /* DetailPlantView.swift */; };
+		8B713BCD25CC9A420055E640 /* VerticalButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BCC25CC9A420055E640 /* VerticalButtonView.swift */; };
+		8B713BD125CCA2650055E640 /* TabPlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B713BD025CCA2650055E640 /* TabPlantView.swift */; };
+		8B72365125C9CF020027ABDB /* TabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72365025C9CF020027ABDB /* TabBarItem.swift */; };
+		8B72365425C9CF1F0027ABDB /* Guide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72365325C9CF1F0027ABDB /* Guide.swift */; };
+		8B72365725C9CF780027ABDB /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72365625C9CF780027ABDB /* Place.swift */; };
+		8B72365A25C9D0140027ABDB /* DetailBaliView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72365925C9D0140027ABDB /* DetailBaliView.swift */; };
+		8B72365D25C9D02B0027ABDB /* HomeBaliView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72365C25C9D02B0027ABDB /* HomeBaliView.swift */; };
+		8B72366025C9D0410027ABDB /* HomeTopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72365F25C9D0410027ABDB /* HomeTopView.swift */; };
+		8B72366325C9D0510027ABDB /* GuedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72366225C9D0510027ABDB /* GuedView.swift */; };
+		8B72366625C9D0630027ABDB /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72366525C9D0630027ABDB /* GridView.swift */; };
+		8B72366C25C9D27C0027ABDB /* GuedButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72366B25C9D27C0027ABDB /* GuedButtonView.swift */; };
+		8B72366F25C9DDCE0027ABDB /* GridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72366E25C9DDCE0027ABDB /* GridItemView.swift */; };
+		8B72367425C9F8AB0027ABDB /* MainBaliView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B72367325C9F8AB0027ABDB /* MainBaliView.swift */; };
+		8BD7AC6D25CB225C005D864F /* ModelRedBull.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AC6C25CB225C005D864F /* ModelRedBull.swift */; };
+		8BD7AC7025CB2332005D864F /* TitleRedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AC6F25CB2332005D864F /* TitleRedView.swift */; };
+		8BD7AC7325CB255A005D864F /* ScrollTopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AC7225CB255A005D864F /* ScrollTopView.swift */; };
+		8BD7AC7625CB308A005D864F /* CardBulView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AC7525CB308A005D864F /* CardBulView.swift */; };
+		8BD7AC7925CB3A38005D864F /* MainBullView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AC7825CB3A38005D864F /* MainBullView.swift */; };
+		8BD7AC7C25CB3D46005D864F /* DetailBulView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AC7B25CB3D46005D864F /* DetailBulView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +51,37 @@
 		8B70E15425BDAF0A0014EEA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B70E15725BDAF0A0014EEA7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8B70E15925BDAF0A0014EEA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B70E16125BDAF690014EEA7 /* Challenge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1.swift; sourceTree = "<group>"; };
+		8B70E16A25BDD6980014EEA7 /* Challenge2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge2.swift; sourceTree = "<group>"; };
+		8B70E16D25BE01050014EEA7 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		8B70E17025BE08920014EEA7 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		8B70E17325BE112D0014EEA7 /* MenuButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuButton.swift; sourceTree = "<group>"; };
+		8B713BAE25CC65E50055E640 /* PlantsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantsModel.swift; sourceTree = "<group>"; };
+		8B713BB225CC6B2D0055E640 /* TopPlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopPlantView.swift; sourceTree = "<group>"; };
+		8B713BB525CC738E0055E640 /* TopTitlePlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopTitlePlantView.swift; sourceTree = "<group>"; };
+		8B713BB825CC79BC0055E640 /* FrontPlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrontPlantView.swift; sourceTree = "<group>"; };
+		8B713BBB25CC7C550055E640 /* SectionPlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionPlantView.swift; sourceTree = "<group>"; };
+		8B713BBE25CC835E0055E640 /* CardFrontPlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFrontPlantView.swift; sourceTree = "<group>"; };
+		8B713BC925CC99330055E640 /* DetailPlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPlantView.swift; sourceTree = "<group>"; };
+		8B713BCC25CC9A420055E640 /* VerticalButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalButtonView.swift; sourceTree = "<group>"; };
+		8B713BD025CCA2650055E640 /* TabPlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabPlantView.swift; sourceTree = "<group>"; };
+		8B72365025C9CF020027ABDB /* TabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItem.swift; sourceTree = "<group>"; };
+		8B72365325C9CF1F0027ABDB /* Guide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guide.swift; sourceTree = "<group>"; };
+		8B72365625C9CF780027ABDB /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
+		8B72365925C9D0140027ABDB /* DetailBaliView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBaliView.swift; sourceTree = "<group>"; };
+		8B72365C25C9D02B0027ABDB /* HomeBaliView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeBaliView.swift; sourceTree = "<group>"; };
+		8B72365F25C9D0410027ABDB /* HomeTopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTopView.swift; sourceTree = "<group>"; };
+		8B72366225C9D0510027ABDB /* GuedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuedView.swift; sourceTree = "<group>"; };
+		8B72366525C9D0630027ABDB /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		8B72366B25C9D27C0027ABDB /* GuedButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuedButtonView.swift; sourceTree = "<group>"; };
+		8B72366E25C9DDCE0027ABDB /* GridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridItemView.swift; sourceTree = "<group>"; };
+		8B72367325C9F8AB0027ABDB /* MainBaliView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainBaliView.swift; sourceTree = "<group>"; };
+		8BD7AC6C25CB225C005D864F /* ModelRedBull.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelRedBull.swift; sourceTree = "<group>"; };
+		8BD7AC6F25CB2332005D864F /* TitleRedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleRedView.swift; sourceTree = "<group>"; };
+		8BD7AC7225CB255A005D864F /* ScrollTopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollTopView.swift; sourceTree = "<group>"; };
+		8BD7AC7525CB308A005D864F /* CardBulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardBulView.swift; sourceTree = "<group>"; };
+		8BD7AC7825CB3A38005D864F /* MainBullView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainBullView.swift; sourceTree = "<group>"; };
+		8BD7AC7B25CB3D46005D864F /* DetailBulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBulView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +114,11 @@
 		8B70E14F25BDAF080014EEA7 /* Chalo */ = {
 			isa = PBXGroup;
 			children = (
+				8B713BAC25CC64B00055E640 /* Challange5 */,
+				8BD7AC6A25CB1B34005D864F /* Challenge4 */,
+				8B72364A25C9C7B90027ABDB /* Challenge3 */,
+				8B70E16925BDD66A0014EEA7 /* Challenge2 */,
+				8B70E16025BDAF520014EEA7 /* Challenges1 */,
 				8B70E15025BDAF080014EEA7 /* ChaloApp.swift */,
 				8B70E15225BDAF080014EEA7 /* ContentView.swift */,
 				8B70E15425BDAF0A0014EEA7 /* Assets.xcassets */,
@@ -67,6 +134,128 @@
 				8B70E15725BDAF0A0014EEA7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8B70E16025BDAF520014EEA7 /* Challenges1 */ = {
+			isa = PBXGroup;
+			children = (
+				8B70E16125BDAF690014EEA7 /* Challenge1.swift */,
+			);
+			path = Challenges1;
+			sourceTree = "<group>";
+		};
+		8B70E16925BDD66A0014EEA7 /* Challenge2 */ = {
+			isa = PBXGroup;
+			children = (
+				8B70E16A25BDD6980014EEA7 /* Challenge2.swift */,
+				8B70E16D25BE01050014EEA7 /* SecondView.swift */,
+				8B70E17025BE08920014EEA7 /* ThirdView.swift */,
+				8B70E17325BE112D0014EEA7 /* MenuButton.swift */,
+			);
+			path = Challenge2;
+			sourceTree = "<group>";
+		};
+		8B713BAC25CC64B00055E640 /* Challange5 */ = {
+			isa = PBXGroup;
+			children = (
+				8B713BB125CC6AEA0055E640 /* PlantsViews */,
+				8B713BAD25CC65BE0055E640 /* ModelPlants */,
+			);
+			path = Challange5;
+			sourceTree = "<group>";
+		};
+		8B713BAD25CC65BE0055E640 /* ModelPlants */ = {
+			isa = PBXGroup;
+			children = (
+				8B713BAE25CC65E50055E640 /* PlantsModel.swift */,
+			);
+			path = ModelPlants;
+			sourceTree = "<group>";
+		};
+		8B713BB125CC6AEA0055E640 /* PlantsViews */ = {
+			isa = PBXGroup;
+			children = (
+				8B713BB225CC6B2D0055E640 /* TopPlantView.swift */,
+				8B713BB825CC79BC0055E640 /* FrontPlantView.swift */,
+				8B713BB525CC738E0055E640 /* TopTitlePlantView.swift */,
+				8B713BBB25CC7C550055E640 /* SectionPlantView.swift */,
+				8B713BBE25CC835E0055E640 /* CardFrontPlantView.swift */,
+				8B713BC925CC99330055E640 /* DetailPlantView.swift */,
+				8B713BCC25CC9A420055E640 /* VerticalButtonView.swift */,
+				8B713BD025CCA2650055E640 /* TabPlantView.swift */,
+			);
+			path = PlantsViews;
+			sourceTree = "<group>";
+		};
+		8B72364A25C9C7B90027ABDB /* Challenge3 */ = {
+			isa = PBXGroup;
+			children = (
+				8B72364F25C9C8260027ABDB /* Models */,
+				8B72364B25C9C7E20027ABDB /* Views */,
+			);
+			path = Challenge3;
+			sourceTree = "<group>";
+		};
+		8B72364B25C9C7E20027ABDB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8B72364E25C9C80C0027ABDB /* Detail */,
+				8B72364C25C9C7EB0027ABDB /* Home */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		8B72364C25C9C7EB0027ABDB /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				8B72365C25C9D02B0027ABDB /* HomeBaliView.swift */,
+				8B72365F25C9D0410027ABDB /* HomeTopView.swift */,
+				8B72366225C9D0510027ABDB /* GuedView.swift */,
+				8B72366B25C9D27C0027ABDB /* GuedButtonView.swift */,
+				8B72366525C9D0630027ABDB /* GridView.swift */,
+				8B72366E25C9DDCE0027ABDB /* GridItemView.swift */,
+				8B72367325C9F8AB0027ABDB /* MainBaliView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		8B72364E25C9C80C0027ABDB /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				8B72365925C9D0140027ABDB /* DetailBaliView.swift */,
+			);
+			path = Detail;
+			sourceTree = "<group>";
+		};
+		8B72364F25C9C8260027ABDB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8B72365025C9CF020027ABDB /* TabBarItem.swift */,
+				8B72365325C9CF1F0027ABDB /* Guide.swift */,
+				8B72365625C9CF780027ABDB /* Place.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		8BD7AC6A25CB1B34005D864F /* Challenge4 */ = {
+			isa = PBXGroup;
+			children = (
+				8BD7AC6B25CB2240005D864F /* Model */,
+				8BD7AC6F25CB2332005D864F /* TitleRedView.swift */,
+				8BD7AC7225CB255A005D864F /* ScrollTopView.swift */,
+				8BD7AC7525CB308A005D864F /* CardBulView.swift */,
+				8BD7AC7825CB3A38005D864F /* MainBullView.swift */,
+				8BD7AC7B25CB3D46005D864F /* DetailBulView.swift */,
+			);
+			path = Challenge4;
+			sourceTree = "<group>";
+		};
+		8BD7AC6B25CB2240005D864F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8BD7AC6C25CB225C005D864F /* ModelRedBull.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +327,39 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B72366025C9D0410027ABDB /* HomeTopView.swift in Sources */,
+				8B72366F25C9DDCE0027ABDB /* GridItemView.swift in Sources */,
+				8BD7AC7625CB308A005D864F /* CardBulView.swift in Sources */,
+				8B713BAF25CC65E50055E640 /* PlantsModel.swift in Sources */,
+				8B713BCD25CC9A420055E640 /* VerticalButtonView.swift in Sources */,
+				8B70E16B25BDD6980014EEA7 /* Challenge2.swift in Sources */,
+				8BD7AC7925CB3A38005D864F /* MainBullView.swift in Sources */,
+				8B713BB325CC6B2D0055E640 /* TopPlantView.swift in Sources */,
+				8B70E16E25BE01050014EEA7 /* SecondView.swift in Sources */,
+				8B713BB625CC738F0055E640 /* TopTitlePlantView.swift in Sources */,
+				8B70E17425BE112D0014EEA7 /* MenuButton.swift in Sources */,
+				8BD7AC7025CB2332005D864F /* TitleRedView.swift in Sources */,
+				8B70E16225BDAF690014EEA7 /* Challenge1.swift in Sources */,
+				8B713BD125CCA2650055E640 /* TabPlantView.swift in Sources */,
 				8B70E15325BDAF080014EEA7 /* ContentView.swift in Sources */,
+				8B72365D25C9D02B0027ABDB /* HomeBaliView.swift in Sources */,
+				8B713BB925CC79BC0055E640 /* FrontPlantView.swift in Sources */,
+				8B72366C25C9D27C0027ABDB /* GuedButtonView.swift in Sources */,
+				8BD7AC7325CB255A005D864F /* ScrollTopView.swift in Sources */,
+				8B72367425C9F8AB0027ABDB /* MainBaliView.swift in Sources */,
+				8B713BBF25CC835E0055E640 /* CardFrontPlantView.swift in Sources */,
+				8B70E17125BE08920014EEA7 /* ThirdView.swift in Sources */,
+				8BD7AC6D25CB225C005D864F /* ModelRedBull.swift in Sources */,
+				8B72365425C9CF1F0027ABDB /* Guide.swift in Sources */,
+				8B72365125C9CF020027ABDB /* TabBarItem.swift in Sources */,
 				8B70E15125BDAF080014EEA7 /* ChaloApp.swift in Sources */,
+				8B72366325C9D0510027ABDB /* GuedView.swift in Sources */,
+				8B713BCA25CC99330055E640 /* DetailPlantView.swift in Sources */,
+				8B72365725C9CF780027ABDB /* Place.swift in Sources */,
+				8B72366625C9D0630027ABDB /* GridView.swift in Sources */,
+				8B72365A25C9D0140027ABDB /* DetailBaliView.swift in Sources */,
+				8B713BBC25CC7C550055E640 /* SectionPlantView.swift in Sources */,
+				8BD7AC7C25CB3D46005D864F /* DetailBulView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
